@@ -1,0 +1,86 @@
+h1{
+    color: dodgerblue;
+    font-size: 50px;
+    text-align: center;
+    margin: 3px;
+    margin-right: 10px;
+   
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 400px;
+}
+.container{
+    border:solid black 2px; 
+    padding: 10px; 
+    margin-left: 90px; 
+    margin-right: 210px; 
+    margin-top: 100px; 
+    width:1250px;
+}
+#txt{
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px ;
+    background: #f1f1f1;
+}
+.button-class{
+    margin-left: 20px;
+}
+#count{
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    color:darkturquoise;
+    font-size: 25px;
+}
+button{
+    width: 70px;
+    height: 30px;
+    border:2px  darkblue;
+    background-color:green;
+    color: white;
+    border-radius: 150px;
+}
+.grid-item1{
+   background-image: url('https://i.pinimg.com/originals/07/eb/3b/07eb3b288bd6862fd3028d6744653b59.jpg');
+   width: 350px;
+   background-repeat: no-repeat;
+   margin-left: 200px;
+  
+   margin-bottom: 100px;
+}
+
+#img{
+    width: 650px;
+    height: 800px;
+    margin-left: 0px;
+    margin-bottom: 10px
+    
+}
+#num{
+    margin-left: 50px;
+}
+#cny{
+    border-radius: 10px;
+    background: #f1f1f1;
+    height: 30px;
+    border: 1px;
+}
+#pb{
+    border-radius: 10px;
+    background: #f1f1f1;
+    height: 30px;
+    border: 1px;
+}
+#result{
+    border: solid 1px;
+    text-align: center;
+}
+#name{
+    margin-bottom: 6px  ;
+}
